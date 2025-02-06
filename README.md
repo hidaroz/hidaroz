@@ -4,10 +4,10 @@
 </a>
 
 ## 🔹 About Me  
-Aspiring **Cybersecurity Engineer** and **Informatics student** at the **University of Washington** with hands-on experience in **penetration testing, security automation, and vulnerability assessment**. Passionate about **network security, cloud security, and security operations**.
+Aspiring Cybersecurity Engineer and Informatics student at the University of Washington with hands-on experience in penetration testing, security automation, and vulnerability assessment. Passionate about network security, cloud security, and security operations.
 
 ## 🎯 Objective  
-Seeking a **Cybersecurity Internship** where I can apply my **offensive and defensive security skills**, gain hands-on experience in **threat detection and remediation**, and contribute to securing enterprise environments.
+Seeking a Cybersecurity Internship where I can apply my offensive and defensive security skills, and gain hands-on experience to contribute in securing enterprise environments.
 
 ---
 
@@ -49,19 +49,19 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
 ## 🔬 Security Projects  
 
 ### **🔹 Securescope – Offensive Security Lab**
-- Built a **controlled penetration testing lab** in VirtualBox to simulate **real-world attack scenarios**.
-- Used **Metasploit, Nmap, and Wireshark** to **identify and exploit vulnerabilities**.
-- Developed **remediation techniques** based on **MITRE ATT&CK** strategies.
+- Built a controlled penetration testing lab in VirtualBox to simulate **real-world attack scenarios**.
+- Used Metasploit, Nmap, and Wireshark** to identify and exploit vulnerabilities.
+- Developed remediation techniques** based on MITRE ATT&CK strategies.
 
 ### **🔹 Huskey Password Manager Security**
-- Conducted **vulnerability assessments** with **OWASP ZAP** to detect **XSS and SQL Injection**.
-- Strengthened **password storage** using **bcrypt hashing and proper input sanitization**.
-- Simulated **brute force attacks** to test **authentication robustness**.
+- Conducted vulnerability assessments with **OWASP ZAP** to detect XSS and SQL Injection.
+- Strengthened password storage using bcrypt hashing and proper input sanitization.
+- Simulated brute force attacks to test authentication robustness.
 
 ### **🔹 Phishing Fighters – Cybersecurity Awareness Platform**
-- Developed a **gamified learning platform** to educate users on **phishing attacks**.
-- Increased user retention by **30%** through incentive-based security training.
-- Conducted usability testing to **improve accessibility and security engagement**.
+- Developed a gamified learning platform to educate users on **phishing attacks**.
+- Increased user retention by 30% through incentive-based security training.
+- Conducted usability testing to improve accessibility and security engagement.
 
 ---
 

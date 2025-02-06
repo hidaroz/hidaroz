@@ -28,7 +28,10 @@ Seeking a Cybersecurity Internship where I can apply my offensive and defensive 
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-AB2328?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    </a>
+    <a href="https://attack.mitre.org/">
+        <img src="https://img.shields.io/badge/-MITRE_ATT&CK-AB2328?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    </a>
 </div>
 
 ### **Defensive Security**

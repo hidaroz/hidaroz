@@ -45,6 +45,22 @@ Seeking a Cybersecurity Internship where I can apply my offensive and defensive 
     <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNUBash&logoColor=white" />
 </div>
 
+### **Automation & Logging**
+<div>
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?&style=for-the-badge&logo=Selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Loggly-FF8000?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
+</div>
+
+### **Operating Systems & Security**
+<div>
+    <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSL_Security-0A66C2?&style=for-the-badge&logo=Let'sEncrypt&logoColor=white" />
+</div>
+
+
+
 
 ## 🔬 Security Projects  
 

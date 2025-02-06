@@ -18,8 +18,6 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
 | **Penetration Testing & Exploit Development** | [Securescope Offensive Security Lab](#) |
 | **Web & Network Security**                   | [Huskey Password Manager Security](#) |
 | **Threat Hunting & Log Analysis**            | [Phishing Fighters - Cybersecurity Awareness](#) |
-| **SIEM & Security Automation**               | [SOC Automation Project](#) |
-| **Incident Response & Threat Intelligence**  | [SOC Automation Project](#) |
 | **Cloud Security & Infrastructure Hardening**| [Securescope Offensive Security Lab](#) |
 
 ---
@@ -56,17 +54,6 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
     <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNUBash&logoColor=white" />
 </div>
 
----
-
-## 📜 Certifications  
-(Currently Pursuing / Planned)  
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
-
----
 
 ## 🔬 Security Projects  
 

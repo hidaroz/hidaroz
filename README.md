@@ -26,9 +26,9 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
 
 ### **Offensive Security**
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### **Defensive Security**
@@ -36,14 +36,6 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### **Cloud Security & SIEM**
-<div>
-    <img src="https://img.shields.io/badge/-AWS_Security-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### **Programming & Scripting**
@@ -71,11 +63,6 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
 - Developed a **gamified learning platform** to educate users on **phishing attacks**.
 - Increased user retention by **30%** through incentive-based security training.
 - Conducted usability testing to **improve accessibility and security engagement**.
-
-### **🔹 SOC Automation Project**
-- Implemented **SIEM-based threat detection** using **Splunk & Microsoft Sentinel**.
-- Developed **automated playbooks** in **Shuffle SOAR** to **streamline incident response**.
-- Managed **case triaging and investigations** in **TheHive** for **efficient threat analysis**.
 
 ---
 

@@ -37,7 +37,7 @@ Seeking a Cybersecurity Internship where I can apply my offensive and defensive 
 ### **Defensive Security**
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSL_Security-0A66C2?&style=for-the-badge&logo=Let'sEncrypt&logoColor=white" />
     <img src="https://img.shields.io/badge/-NIST_Cybersecurity_Framework-002868?&style=for-the-badge&logo=NIST&logoColor=white" />
 </div>
 
@@ -55,12 +55,11 @@ Seeking a Cybersecurity Internship where I can apply my offensive and defensive 
     <img src="https://img.shields.io/badge/-Loggly-FF8000?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
 </div>
 
-### **Operating Systems & Security**
+### **Operating Systems**
 <div>
     <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SSL_Security-0A66C2?&style=for-the-badge&logo=Let'sEncrypt&logoColor=white" />
 </div>
 
 

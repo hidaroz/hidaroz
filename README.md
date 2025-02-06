@@ -62,6 +62,12 @@ Seeking a Cybersecurity Internship where I can apply my offensive and defensive 
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
+### 🖥️ Virtualization & Containerization  
+<div>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UTM-000000?&style=for-the-badge&logo=UTM&logoColor=white" />
+</div>
 
 
 

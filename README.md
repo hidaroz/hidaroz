@@ -18,7 +18,6 @@ Seeking a **Cybersecurity Internship** where I can apply my **offensive and defe
 | **Penetration Testing & Exploit Development** | [Securescope Offensive Security Lab](#) |
 | **Web & Network Security**                   | [Huskey Password Manager Security](#) |
 | **Threat Hunting & Log Analysis**            | [Phishing Fighters - Cybersecurity Awareness](#) |
-| **Cloud Security & Infrastructure Hardening**| [Securescope Offensive Security Lab](#) |
 
 ---
 

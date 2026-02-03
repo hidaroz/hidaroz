@@ -8,12 +8,8 @@
   
   <br/>
   
-  <a href="https://linkedin.com/in/hidar-elhassan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hidar@uw.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/hidar-elhassan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hidar@uw.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
@@ -21,19 +17,6 @@
 ## About
 
 Cybersecurity engineer and product builder studying Informatics (Cybersecurity) at the University of Washington. Currently a Product Engineering Intern at Advanced Care Washington, building HIPAA-compliant workforce management software. I develop AI-driven security tools, contribute to cloud security through the Cloud Security Alliance Seattle Chapter, and serve on NSBE's Financial Support Program Committee.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hidaroz&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidaroz&layout=compact&theme=radical" />
-  </a>
-</div>
 
 ---
 
@@ -86,10 +69,6 @@ University of Washington, Information School | *Expected Dec 2026*
   <h3>Let's Connect</h3>
   <p>I'm always open to collaborating on security research, open-source projects, and product engineering work.</p>
   
-  <a href="https://linkedin.com/in/hidar-elhassan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hidar@uw.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/hidar-elhassan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hidar@uw.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>

@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hidar Elhassan</h1>
-  <h3>Cybersecurity Engineer | Product Engineer | UW Informatics '26</h3>
+  <h3>Cybersecurity Engineer | Incoming Cybersecurity Intern @ Wells Fargo | UW Informatics '26</h3>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Product+Builder;UW+Informatics+%2726" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Product+Builder;UW+Informatics+%2726;Incoming+%40+Wells+Fargo" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -16,7 +16,7 @@
 
 ## About
 
-Cybersecurity engineer and product builder studying Informatics (Cybersecurity) at the University of Washington. Currently a Product Engineering Intern at Advanced Care Washington, building HIPAA-compliant workforce management software. I develop AI-driven security tools, contribute to cloud security through the Cloud Security Alliance Seattle Chapter, and serve on NSBE's Financial Support Program Committee.
+Cybersecurity engineer and product builder studying Informatics (Cybersecurity) at the University of Washington. Currently a Product Engineering Intern at Advanced Care Washington, building HIPAA-compliant workforce management software. Incoming Cybersecurity Intern at Wells Fargo for Summer 2026. I develop AI-driven security tools, contribute to cloud security through the Cloud Security Alliance Seattle Chapter, and serve on NSBE's Financial Support Program Committee.
 
 ---
 
@@ -46,6 +46,7 @@ Cybersecurity engineer and product builder studying Informatics (Cybersecurity) 
 
 ## 💼 Experience
 
+- **Cybersecurity Intern** | Wells Fargo | *Summer 2026 (Incoming)*
 - **Product Engineering Intern** | Advanced Care Washington | *Aug 2025 -- Present*
 - **Digital Security Educator** | YWCA & Edmonds College | *June 2021 -- Aug 2022*
 

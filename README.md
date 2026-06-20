@@ -19,7 +19,7 @@
 
 I build and ship production software with a security-first mindset, and I'm growing that into a cybersecurity career.
 
-**Engineering** - I'm the sole architect and builder of **AC-Workforce (ACW)**, a HIPAA-compliant, multi-tenant workforce-management platform for home-care organizations. It runs in production: a full-stack React / React Native front end on AWS serverless infrastructure I authored end-to-end in CDK (Lambda, API Gateway, Cognito), backed by a multi-tenant PostgreSQL database on Neon.
+**Engineering** - I build and run **AC-Workforce (ACW)**, a HIPAA-compliant, multi-tenant workforce-management platform for home-care organizations. It runs in production: a full-stack React / React Native front end on AWS serverless infrastructure I authored end-to-end in CDK (Lambda, API Gateway, Cognito), backed by a multi-tenant PostgreSQL database on Neon.
 
 **Security** - I'm a Cybersecurity Intern at **Wells Fargo** on the ServiceNow deployment team, and my focus is the intersection of **AI and security**. I build AI-driven security tooling - autonomous red-team agents and LLM-powered assessment - and I care about securing AI systems themselves: agentic workflows, LLM application security, and AI red-teaming. Certifying via CompTIA Security+; active in the Cloud Security Alliance (Seattle Chapter) and NSBE.
 
@@ -74,7 +74,7 @@ I build and ship production software with a security-first mindset, and I'm grow
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **AC-Workforce** | HIPAA-compliant, multi-tenant workforce platform for home-care orgs - running in production. Sole author of the AWS CDK infrastructure (Lambda handlers, Cognito auth, API Gateway) over a multi-tenant Postgres database. | React, React Native, AWS (CDK/Lambda/Cognito), Neon | *Private* |
+| **AC-Workforce** | HIPAA-compliant, multi-tenant workforce platform for home-care orgs - running in production. Built the AWS CDK infrastructure (Lambda handlers, Cognito auth, API Gateway) over a multi-tenant Postgres database. | React, React Native, AWS (CDK/Lambda/Cognito), Neon | *Private* |
 | **[Project Medusa](https://github.com/hidaroz/project-medusa)** | AI-driven security-assessment agent with MITRE ATT&CK mapping and sandboxed red-team simulation. | Python, LLMs, MITRE ATT&CK | [GitHub](https://github.com/hidaroz/project-medusa) |
 | **OpenGuard** | AI-powered "fractional CISO" - conversational security assessments, policy generation, and compliance tracking for community orgs. | Next.js, TypeScript, Supabase, Vercel AI SDK | *Private* |
 | **[Huskey Password Manager Security](https://github.com/hidaroz/Huskey-Manager)** | Vulnerability assessment - OWASP ZAP scanning, brute-force testing, and bcrypt hardening. | OWASP ZAP, Java | [GitHub](https://github.com/hidaroz/Huskey-Manager) |
